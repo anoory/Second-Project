@@ -1,0 +1,38 @@
+h1 {
+
+    color: blue;
+    font-size: 50px;
+    font-weight: 40px;
+    font-style: inherit;
+    text-align: left;
+    background-color: green;
+    
+}
+
+h5 {
+    color: darkslategray;
+}
+
+#Duties {
+    color: orange;
+}
+.Exchange-Server {
+    color: greenyellow;
+}
+
+body{
+
+    background-image: url(../images/family.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: brown;
+    border-bottom: orangered;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px orange ;
+}
